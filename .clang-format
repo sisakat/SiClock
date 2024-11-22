@@ -1,0 +1,13 @@
+BasedOnStyle: LLVM
+AccessModifierOffset: -4
+IndentWidth: 4
+Language: Cpp
+PointerAlignment: Left
+BreakBeforeBraces: Allman
+AlignAfterOpenBracket: AlwaysBreak
+BinPackArguments: false
+BinPackParameters: false
+PackConstructorInitializers: NextLine
+ColumnLimit: 100
+AlignTrailingComments: Always
+AllowShortFunctionsOnASingleLine: None

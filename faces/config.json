@@ -1,0 +1,139 @@
+{
+  "scale": 0.5,
+  "target_fps": 70,
+  "clocks": [
+    {
+      "name": "Elegant",
+      "layers": [
+        {
+          "image": "elegant/clock_digits.png"
+        },
+        {
+          "image": "elegant/minute.png",
+          "function": "minute",
+          "pos": [
+            0.5,
+            0.5
+          ],
+          "origin": [
+            512,
+            512
+          ]
+        },
+        {
+          "image": "elegant/hour.png",
+          "function": "hour",
+          "pos": [
+            0.5,
+            0.5
+          ],
+          "origin": [
+            512,
+            512
+          ]
+        },
+        {
+          "image": "elegant/second.png",
+          "function": "second_discrete_smooth",
+          "pos": [
+            0.5,
+            0.5
+          ],
+          "origin": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elegant Dark",
+      "layers": [
+        {
+          "image": "elegant_dark/clock_digits.png"
+        },
+        {
+          "image": "elegant_dark/minute.png",
+          "function": "minute",
+          "pos": [
+            0.5,
+            0.5
+          ],
+          "origin": [
+            512,
+            512
+          ]
+        },
+        {
+          "image": "elegant_dark/hour.png",
+          "function": "hour",
+          "pos": [
+            0.5,
+            0.5
+          ],
+          "origin": [
+            512,
+            512
+          ]
+        },
+        {
+          "image": "elegant_dark/second.png",
+          "function": "second",
+          "pos": [
+            0.5,
+            0.5
+          ],
+          "origin": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Minimalism",
+      "layers": [
+        {
+          "image": "minimalist/clock.png"
+        },
+        {
+          "image": "minimalist/minute.png",
+          "function": "minute",
+          "pos": [
+            0.5,
+            0.5
+          ],
+          "origin": [
+            512,
+            512
+          ]
+        },
+        {
+          "image": "minimalist/hour.png",
+          "function": "hour",
+          "pos": [
+            0.5,
+            0.5
+          ],
+          "origin": [
+            512,
+            512
+          ]
+        },
+        {
+          "image": "minimalist/second.png",
+          "function": "second",
+          "pos": [
+            0.5,
+            0.5
+          ],
+          "origin": [
+            512,
+            512
+          ]
+        }
+      ]
+    }
+  ]
+}
+
