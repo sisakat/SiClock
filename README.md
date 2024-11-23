@@ -13,6 +13,11 @@ It ships with various designs and can easily be tweaked by modifying a JSON conf
 | Right mouse down | Changes the clock face |
 | Mouse wheel      | Scales the clock       |
 
+## Todos
+
+- Remove the application from the task bar and move it to the notification area.
+- Save and load the state from configuration directories (currently working directory).
+
 ## Copyright and license
 
 The source code of this project is licensed under Zlib.
