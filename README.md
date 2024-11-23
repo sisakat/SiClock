@@ -3,6 +3,8 @@
 A small cross-platform executable that displays an analog clock.
 It ships with various designs and can easily be tweaked by modifying a JSON configuration file.
 
+![Display](./docs/display.png)
+
 ## Controls
 
 | Button           | Action                 |
